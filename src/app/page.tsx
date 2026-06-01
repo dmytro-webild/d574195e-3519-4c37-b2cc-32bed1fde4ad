@@ -50,7 +50,6 @@ export default function LandingPage() {
           name: "Contacto",          id: "#contact"},
       ]}
       brandName="Casa de Guapos"
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EDyYpkv81DEDqMKR6uXi7rJRpX/uploaded-1780346773206-s2h2t5cs.png"
     />
   </div>
 
