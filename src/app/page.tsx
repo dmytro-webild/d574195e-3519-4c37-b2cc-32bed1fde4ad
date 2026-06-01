@@ -53,6 +53,8 @@ export default function LandingPage() {
         }
       ]}
       brandName="Casa de Guapos"
+      logoSrc="https://via.placeholder.com/150x50?text=Casa+de+Guapos+Logo"
+      logoAlt="Casa de Guapos Logo"
     />
   </div>
 
@@ -254,6 +256,8 @@ export default function LandingPage() {
   <div id="footer" data-section="footer">
       <FooterBaseReveal
       logoText="Casa de Guapos"
+      logoSrc="https://via.placeholder.com/150x50?text=Casa+de+Guapos+Logo"
+      logoAlt="Casa de Guapos Logo"
       columns={[
         {
           title: "Servicios",          items: [
