@@ -48,6 +48,9 @@ export default function LandingPage() {
           name: "FAQ",          id: "#faq"},
         {
           name: "Contacto",          id: "#contact"},
+        {
+          name: "WhatsApp",          id: "https://wa.me/593958688179"
+        }
       ]}
       brandName="Casa de Guapos"
     />
