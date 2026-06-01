@@ -53,8 +53,6 @@ export default function LandingPage() {
         }
       ]}
       brandName="Casa de Guapos"
-      logoSrc="https://via.placeholder.com/150x50?text=Casa+de+Guapos+Logo"
-      logoAlt="Casa de Guapos Logo"
     />
   </div>
 
