@@ -10,8 +10,8 @@ import { Archivo } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Casa de Guapos | Barbería Premium en Guayaquil',
-  description: 'Experimenta el mejor servicio de barbería en Guayaquil con Casa de Guapos. Cortes de navaja expertos, afeitados clásicos y atención personalizada. ¡Reserva tu cita hoy!',
+  title: "Casa de Guapos | Barbería Premium en Guayaquil",
+  description: "Experimenta el mejor servicio de barbería en Guayaquil con Casa de Guapos. Cortes de navaja expertos, afeitados clásicos y atención personalizada. ¡Reserva tu cita hoy!",
   keywords: ["barbería, guayaquil, urdesa, corte de cabello, afeitado, barba, grooming masculino, salon de caballeros, peluquería hombre, barbería premium, cita online"],
   openGraph: {
     "title": "Casa de Guapos | Barbería Premium en Guayaquil",
