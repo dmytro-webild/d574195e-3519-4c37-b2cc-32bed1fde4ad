@@ -67,7 +67,7 @@ export default function LandingPage() {
         {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EDyYpkv81DEDqMKR6uXi7rJRpX/uploaded-1780346773206-tsw2aum8.jpg",          imageAlt: "Barbero profesional trabajando en un cliente"},
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EDyYpkv81DEDqMKR6uXi7rJRpX/uploaded-1780346773206-szkgtgjp.jpg",          imageAlt: "Barbershop interior, general view"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EDyYpkv81DEDqMKR6uXi7rJRpX/uploaded-1780346773206-szkgtgjp.jpg?_wi=1",          imageAlt: "Barbershop interior, general view"},
         {
           imageSrc: "http://img.b2bpic.net/free-photo/portrait-male-hairstylist-barber-shop_23-2147839825.jpg",          imageAlt: "Fachada moderna de Casa de Guapos"},
         {
@@ -240,7 +240,7 @@ export default function LandingPage() {
         name: "message",        placeholder: "Cuentanos sobre tu estilo deseado o tus dudas...",        rows: 4,
         required: false,
       }}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EDyYpkv81DEDqMKR6uXi7rJRpX/uploaded-1780346773206-szkgtgjp.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EDyYpkv81DEDqMKR6uXi7rJRpX/uploaded-1780346773206-szkgtgjp.jpg?_wi=2"
       imageAlt="Barbershop interior, general view"
       mediaAnimation="opacity"
       mediaPosition="right"
